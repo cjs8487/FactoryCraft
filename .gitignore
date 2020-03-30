@@ -29,3 +29,6 @@ gradle-app.setting
 *.ipr
 *.iws
 .idea/
+
+# Forge related
+run/*
